@@ -50,3 +50,7 @@ body {
     background-color: var(--bs-primary);
     color: white;
 }
+.carousel-size {
+    width: 400px;
+    height: auto;
+}
